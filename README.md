@@ -1,1 +1,1 @@
-# documentationUofTCoders
+# Static repo for UofTCoders lessons
